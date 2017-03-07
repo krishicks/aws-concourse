@@ -58,7 +58,7 @@ resources:
 - name: ert-concourse
   type: git
   source:
-    uri: https://github.com/c0-ops/ert-concourse.git
+    uri: https://github.com/krishicks/ert-concourse.git
     branch: master
 
 - name: pcf-pipelines
